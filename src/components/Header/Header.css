@@ -1,0 +1,9 @@
+.button-sign-up{
+    width: 100px;
+    background-color: #F582A7;
+    height:2rem;
+    border: none;
+}
+.button-sign-up:hover{
+    color:#4C3A51;
+}

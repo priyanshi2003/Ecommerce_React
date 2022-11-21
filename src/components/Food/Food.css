@@ -1,0 +1,19 @@
+.food-header{
+    text-align: center;
+}
+.food-header nav{
+    background-color: #fff;
+    line-height: 40px;
+    font-size: 20px;
+}
+.food-header  nav a {
+    color: rgb(142, 14, 142);
+    margin: 20px;
+    text-decoration: none;
+    padding: 5px;
+    cursor: pointer;
+    
+ }
+ .food-header nav a:hover{
+    border-bottom: 1px solid #F582A7;
+  }

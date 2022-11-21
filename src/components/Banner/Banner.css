@@ -1,0 +1,13 @@
+.banner-area{
+background-image: url('https://img.freepik.com/premium-photo/black-friday-clothing-industry-concept-pink-background-flat-lay-with-pink-clothes-hanger-white-blouse-dress-with-heart-shape-hanger_371428-1622.jpg');
+  width: 100%;
+  height: 500px;
+  background-position: center center;
+  background-size: cover;
+  color:white;
+  font-weight:bold;
+  font-size:4rem;
+}
+.content{
+    padding: 160px 0;
+}
